@@ -1,0 +1,22 @@
+{
+  "name": "threeweekexam",
+  "version": "1.0.0",
+  "description": "threeWeekExam",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s763397709/threeWeekExam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s763397709/threeWeekExam/issues"
+  },
+  "homepage": "https://github.com/s763397709/threeWeekExam#readme",
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  }
+}
